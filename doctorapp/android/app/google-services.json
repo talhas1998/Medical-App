@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1088862155716",
+    "project_id": "fir-app-abf52",
+    "storage_bucket": "fir-app-abf52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088862155716:android:87d48cb7ec526562a0ea91",
+        "android_client_info": {
+          "package_name": "com.example.appwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZo31EG-WRMXbzCb2J-TLyjkNEDi2WU9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088862155716:android:e6e8f4b6db518519a0ea91",
+        "android_client_info": {
+          "package_name": "com.example.doctorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZo31EG-WRMXbzCb2J-TLyjkNEDi2WU9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
